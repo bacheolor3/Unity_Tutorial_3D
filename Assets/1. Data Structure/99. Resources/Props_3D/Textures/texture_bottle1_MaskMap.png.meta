@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 28479dd92722b444790b217a72942835
+guid: 74d03ee7689fb44118fe9c87bbd98416
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_bottle1_MaskMap.png
+  uploadId: 586663

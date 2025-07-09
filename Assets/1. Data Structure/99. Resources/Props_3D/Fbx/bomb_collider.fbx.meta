@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6ed21b9827ee2ca4a80ad3bc2cb8ae25
+guid: 8018b22f0f7d545e1975bf5b6186c050
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bomb_collider.fbx
+  uploadId: 586663

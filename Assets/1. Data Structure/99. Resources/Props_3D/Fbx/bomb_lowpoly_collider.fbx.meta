@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 62b242005e2bd69449033573d50b40ab
+guid: 30edb0d577764404e95dbdd8ca6791d2
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bomb_lowpoly_collider.fbx
+  uploadId: 586663

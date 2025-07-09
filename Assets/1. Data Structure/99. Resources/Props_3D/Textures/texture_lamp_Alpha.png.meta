@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c2ec95cca10b5e5468a9d883eeb4d8a8
+guid: 4a8e634cdf0f4457cbd935fad1d6f58c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_lamp_Alpha.png
+  uploadId: 586663

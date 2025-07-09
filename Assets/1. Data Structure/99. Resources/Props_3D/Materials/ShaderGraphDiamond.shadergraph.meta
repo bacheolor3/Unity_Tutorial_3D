@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d971f8b3aae2fd546a7ee8c5d2b61c90
+guid: 0dd72e9533ab54b38a8350975b36231c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,3 +8,10 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Materials/ShaderGraphDiamond.shadergraph
+  uploadId: 586663

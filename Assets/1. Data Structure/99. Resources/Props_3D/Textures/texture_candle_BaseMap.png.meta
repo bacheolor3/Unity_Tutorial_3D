@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 41641ef599f80ef439a4de8612706007
+guid: 40b39eafc207141c3af2d732b22fa6f2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_candle_BaseMap.png
+  uploadId: 586663

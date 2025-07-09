@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9ce045bfe24fa9a4f898321b213b549a
+guid: 383b52eba295c4a90a7d026110270a73
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bag_lowpoly.fbx
+  uploadId: 586663

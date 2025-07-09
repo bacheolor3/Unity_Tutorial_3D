@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a9992e8ce0eed5c468893977c64a6a22
+guid: a46f481c985e142f3a3005f18840c7ec
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_barrel_BaseMap.png
+  uploadId: 586663

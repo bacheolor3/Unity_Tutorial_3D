@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ad704a755116ab64a9b88831f3904403
+guid: 2a161d9ca515d44ebb6a8dd4fde3a95e
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/hourglass.fbx
+  uploadId: 586663

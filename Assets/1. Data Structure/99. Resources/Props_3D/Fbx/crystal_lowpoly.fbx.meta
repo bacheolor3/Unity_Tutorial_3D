@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 135231c5830346a4bb3facd191e83236
+guid: d545ce24e6412480f94af4f602bc0ad4
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/crystal_lowpoly.fbx
+  uploadId: 586663

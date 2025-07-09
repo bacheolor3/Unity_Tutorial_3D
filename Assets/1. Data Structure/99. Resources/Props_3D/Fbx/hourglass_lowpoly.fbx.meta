@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e8d68db9d1122394f9955e5d60071dca
+guid: e2035f68f3b704a6686805b0177ba101
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/hourglass_lowpoly.fbx
+  uploadId: 586663

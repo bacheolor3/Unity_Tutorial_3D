@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d90062f25d642324eaec33957fe426ed
+guid: 989e0d97e596c4f19908385d11e90f45
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/powder.fbx
+  uploadId: 586663

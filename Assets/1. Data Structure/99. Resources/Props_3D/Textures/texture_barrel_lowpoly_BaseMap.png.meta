@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: aa3a70d180d08e142b8ffc81a9c06e3a
+guid: f2be03ef3eafa4ff4b7e1b6524754d74
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_barrel_lowpoly_BaseMap.png
+  uploadId: 586663

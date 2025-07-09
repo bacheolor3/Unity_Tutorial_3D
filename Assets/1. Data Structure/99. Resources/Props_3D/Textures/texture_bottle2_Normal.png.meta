@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c9be1f9a22be1ef449828282100459f0
+guid: 596a08344e6ae43e6be67b09729254fc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,3 +121,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_bottle2_Normal.png
+  uploadId: 586663

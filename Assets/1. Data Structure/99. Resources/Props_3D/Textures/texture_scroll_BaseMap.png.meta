@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 403417cb18bc0ed479c48dbee30c2d5c
+guid: 86502f073e4194d5e9ebc1244e6ea1c5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_scroll_BaseMap.png
+  uploadId: 586663

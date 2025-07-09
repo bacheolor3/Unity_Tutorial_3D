@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 977ccca29e8e30e42a8f815b30a75f9b
+guid: feb8ab5a8358d44e48f57e35e7ff8ab3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_coin_MaskMap.png
+  uploadId: 586663

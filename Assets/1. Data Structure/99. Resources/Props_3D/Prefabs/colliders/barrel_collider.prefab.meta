@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: 27b14af08ba5d024eb727fb00f579cfc
+guid: ec1335441e0d4456989f7e860643cb76
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Prefabs/colliders/barrel_collider.prefab
+  uploadId: 586663

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f535382008d3cf74ca0c091e485ca4a0
+guid: d6d299224a6c24cef916088e5b0a1171
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bomb_lowpoly.fbx
+  uploadId: 586663

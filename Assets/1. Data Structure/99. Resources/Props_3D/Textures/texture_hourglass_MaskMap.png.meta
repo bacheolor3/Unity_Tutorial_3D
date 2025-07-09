@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ac062eb8996474c4091bc6a4fc125688
+guid: 8fe1660f401a5454e9f5b56919c5eb65
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_hourglass_MaskMap.png
+  uploadId: 586663

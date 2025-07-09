@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c05140b95f80b1c469598b2fd975fd2b
+guid: 8f96774b438c140de80ced8298fef15f
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/candle_lowpoly_collider.fbx
+  uploadId: 586663

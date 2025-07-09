@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fbe25727d38fa3b4a8b52798b00c1d77
+guid: 2be6b1312271c47f8855533c83d33c04
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_lamp_BaseMap.png
+  uploadId: 586663

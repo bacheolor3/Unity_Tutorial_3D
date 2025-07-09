@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: 7db9d6bc84d0e6348b9c6a2663d54770
+guid: 9b8620a18b5ca4311845cf75cecd9769
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Prefabs/models/powder.prefab
+  uploadId: 586663

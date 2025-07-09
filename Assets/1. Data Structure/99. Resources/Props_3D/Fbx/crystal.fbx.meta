@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 73151e4b146320e42b2b30b50802c85d
+guid: edecec09fb7b2404bbfd10ed240bfe83
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/crystal.fbx
+  uploadId: 586663

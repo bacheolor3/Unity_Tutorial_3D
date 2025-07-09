@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c4f85d1c0775b004083bacafcbb1bba3
+guid: 251d27704b9144ec89e9b75994c758f4
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bottle1_lowpoly_liquid.fbx
+  uploadId: 586663

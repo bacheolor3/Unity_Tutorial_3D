@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: 2eedd750c20adc547b1a368b47509f68
+guid: 40cd439ff536c4bcaad3be6579ac37ba
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Prefabs/models/coin.prefab
+  uploadId: 586663

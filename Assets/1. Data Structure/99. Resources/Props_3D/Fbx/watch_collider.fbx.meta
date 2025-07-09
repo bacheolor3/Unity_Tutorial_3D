@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d0a7b81f2f3b07e4ba6ed6710625f936
+guid: ee679f4e77a8740c4a035f654b8144dd
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/watch_collider.fbx
+  uploadId: 586663

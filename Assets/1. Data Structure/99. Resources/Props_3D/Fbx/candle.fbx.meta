@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4ccfd71f1217f654582cfb556dbb85db
+guid: 8756470b582d3426089074c773ad40c5
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/candle.fbx
+  uploadId: 586663

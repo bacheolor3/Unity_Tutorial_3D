@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6049d6647cb69194c8eed98f10e450d0
+guid: 8ea9d695dad624ff5ae1d4528e25b66a
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/candle_lowpoly.fbx
+  uploadId: 586663

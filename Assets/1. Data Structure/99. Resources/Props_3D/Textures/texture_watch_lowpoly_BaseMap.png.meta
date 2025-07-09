@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a252c198f48a83c43b451a2ec4ccd6d4
+guid: 7ecdfeb7b364d43c6a66838c4c0c0842
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_watch_lowpoly_BaseMap.png
+  uploadId: 586663

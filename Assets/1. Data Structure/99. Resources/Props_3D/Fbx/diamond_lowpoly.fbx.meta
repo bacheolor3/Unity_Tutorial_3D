@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bd9331af8c5a60943a12cf755c188605
+guid: 7f5153c9111c249c19bfd4383882c505
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/diamond_lowpoly.fbx
+  uploadId: 586663

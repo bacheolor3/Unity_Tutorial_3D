@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1056f888fea7de34aa03e1fed1f07753
+guid: 8b10cb693a3374464b37e32b1e7df163
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_powder_BaseMap.png
+  uploadId: 586663

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8ebbb1adbf654244fb5f464d39d0dfb0
+guid: bb96e1d28b045410792cd28e445dec89
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/coin.fbx
+  uploadId: 586663

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d30fdfe1c4ea2a24f99d2da6a2fb80cb
+guid: 2b432bf7d5ecf4f6da8f1d14332e124d
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/barrel_lowpoly_collider.fbx
+  uploadId: 586663

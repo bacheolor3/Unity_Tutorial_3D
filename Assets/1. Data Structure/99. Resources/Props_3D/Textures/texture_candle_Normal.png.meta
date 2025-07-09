@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 704a3e61c79e7c24c8b6f6d36ce5ca0c
+guid: 9b1bd352a87c04531bc3bae59d8c86a0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,3 +121,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_candle_Normal.png
+  uploadId: 586663

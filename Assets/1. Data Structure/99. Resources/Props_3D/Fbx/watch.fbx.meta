@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c5096fcfa957d9542847168cbc3119a5
+guid: 0fb6ada8fa53d4af684eef6cdb9438d0
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/watch.fbx
+  uploadId: 586663

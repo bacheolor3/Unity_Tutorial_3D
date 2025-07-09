@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: d90fc8bc2a87f3f4dbe3738d290af454
+guid: 113d3c7c4938544b1a57292e377b472c
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Prefabs/models/scroll_lowpoly.prefab
+  uploadId: 586663

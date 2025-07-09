@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 94ff3799923ff68458bb674ae9955dd2
+guid: 8aabb0f72a3834c9c9d1d1f139e669fc
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bottle2_lowpoly.fbx
+  uploadId: 586663

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b2a9767419d586d468e05bd6ee36a6d4
+guid: d34bf9abcba0b424984409821fe9221d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,3 +121,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_coin_Normal.png
+  uploadId: 586663

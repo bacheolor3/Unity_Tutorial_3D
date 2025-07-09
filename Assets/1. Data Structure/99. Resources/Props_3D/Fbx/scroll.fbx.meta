@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 96e0fc14d08ce9f4ab473f8e4cf32e80
+guid: 7f8ac7d02bc2f43b9a5c7d3bc03e7b1a
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/scroll.fbx
+  uploadId: 586663

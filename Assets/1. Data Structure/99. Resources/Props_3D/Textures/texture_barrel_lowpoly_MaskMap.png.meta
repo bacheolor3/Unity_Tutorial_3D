@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 28d6670e63f8f924f87a3f15092e9fad
+guid: 530fea34633754131a438b1c6da96485
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_barrel_lowpoly_MaskMap.png
+  uploadId: 586663

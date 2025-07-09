@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: adf18da2dc5dfc943b8e7d790d53a38c
+guid: b1d95614ee3094c33b4abfc5e5df469d
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/coin_lowpoly.fbx
+  uploadId: 586663

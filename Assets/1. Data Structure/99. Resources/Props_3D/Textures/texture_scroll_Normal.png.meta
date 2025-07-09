@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cc4d56cb592684b489a89817598c9c67
+guid: 44972920e8352415288a6a8c6f83ace8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,3 +121,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_scroll_Normal.png
+  uploadId: 586663

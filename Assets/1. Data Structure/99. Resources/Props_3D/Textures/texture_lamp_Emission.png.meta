@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ad31a0dd6f83cea4c9b1b24a0dc4ddfc
+guid: 0d9206e290a93458d86c1e06056b3c27
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_lamp_Emission.png
+  uploadId: 586663

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a49fb540eb46f8347a6ee599b42d3b05
+guid: 54a679799ffbc42cca305d1dcc21ca6b
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bottle2_liquid.fbx
+  uploadId: 586663

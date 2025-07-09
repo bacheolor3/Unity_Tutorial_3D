@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c718787018daedb4c8a35d398d3ba039
+guid: 99f5dea786c5549a0bfd63f0418b2db6
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/hourglass_sand.fbx
+  uploadId: 586663

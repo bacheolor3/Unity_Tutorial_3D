@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b3a0757a689ab974b8d61f19dea2b820
+guid: 5e8cbbf12052d40ffa0db9930776c1e2
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/lamp_lowpoly.fbx
+  uploadId: 586663

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 58bec2da7f379064fb23fb7dbe1b349a
+guid: c31bf34d2cfed4a05a044dc9b001779f
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/watch_lowpoly.fbx
+  uploadId: 586663

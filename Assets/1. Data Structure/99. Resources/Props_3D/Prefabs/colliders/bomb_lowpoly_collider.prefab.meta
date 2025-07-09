@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: 97fcd0a0738d6104d80a075bb4fa469d
+guid: 2fbb5ee077a94415aabfc4049ebbf921
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Prefabs/colliders/bomb_lowpoly_collider.prefab
+  uploadId: 586663

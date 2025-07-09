@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3c8196f4dcfbec044b64892ace2b6824
+guid: e34685e99b60f400e9c10fbda10fec67
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,3 +121,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_watch_lowpoly_Normal.png
+  uploadId: 586663

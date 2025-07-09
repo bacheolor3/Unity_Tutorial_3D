@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2dd87cf7e886c40458dcae906f518800
+guid: f3688f902c278475d9e3aa7aa37021cf
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/barrel.fbx
+  uploadId: 586663

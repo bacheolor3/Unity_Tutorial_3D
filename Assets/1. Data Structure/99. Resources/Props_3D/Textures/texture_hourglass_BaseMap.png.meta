@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e9eb11a61bc47d4459920c1e54ac4e5d
+guid: a9fa2f1b911834fcb88f6ddbe32f2ab4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -96,3 +96,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Textures/texture_hourglass_BaseMap.png
+  uploadId: 586663

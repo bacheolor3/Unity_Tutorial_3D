@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6bcd7487c1e706a479357146abf19e64
+guid: b49497abb13624003815b24d1faeaf00
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,3 +8,10 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Materials/ShaderGraphLiquid.shadergraph
+  uploadId: 586663

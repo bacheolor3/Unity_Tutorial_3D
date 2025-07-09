@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8fc59dfd89728fb4b9c63e2055e2ba70
+guid: 5b74e11d1797f41c1b11f5c85979f636
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/bag_lowpoly_collider.fbx
+  uploadId: 586663

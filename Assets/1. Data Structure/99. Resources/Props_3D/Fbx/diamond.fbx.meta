@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 17328801e6516454786d648ea5cb4ba7
+guid: ffde62a636d114f96ab76aef6f64fcbc
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -108,3 +108,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221035
+  packageName: Props 3D
+  packageVersion: 1.02
+  assetPath: Assets/Props_3D/Fbx/diamond.fbx
+  uploadId: 586663
