@@ -11,8 +11,7 @@ public class BoardBar : MonoBehaviour
     private void OnMouseDown() // Enable when had collider
     {
         if (!HanoiTower.isSelected) // not selected
-        {
-            HanoiTower.isSelected = true;
+        {            
             HanoiTower.selectedDonut = PopDonut();
         }
         else // after selected
@@ -50,6 +49,7 @@ public class BoardBar : MonoBehaviour
             return;
         }
 
+        HanoiTower.moveCount++;
         HanoiTower.isSelected = false;
         HanoiTower.selectedDonut = null;
 
@@ -62,8 +62,14 @@ public class BoardBar : MonoBehaviour
 
     public GameObject PopDonut()
     {
-        GameObject donut = barStack.Pop(); // Pullout GameObject from Stack
+        if(barStack.Count > 0)
+        {
+            HanoiTower.currBar = this;
+            HanoiTower.isSelected = true;
+            GameObject donut = barStack.Pop(); // Pullout GameObject from Stack
 
-        return donut; // Return pullout donut
+            return donut; // Return pullout donut
+        }
+        return null;
     }
 }
