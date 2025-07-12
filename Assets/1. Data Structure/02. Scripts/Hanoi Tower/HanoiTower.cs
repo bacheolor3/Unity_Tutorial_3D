@@ -18,8 +18,7 @@ public class HanoiTower : MonoBehaviour
     public static int moveCount;
 
     private IEnumerator Start()
-    {
-        countTextUI.text = moveCount.ToString();
+    {        
         for(int i = (int)hanoiLevel - 1; i >=0;  i--) // create donut by Level using repeat
         {
             GameObject donut = Instantiate(donutPrefabs[i]); // create donut
@@ -29,6 +28,9 @@ public class HanoiTower : MonoBehaviour
 
             yield return new WaitForSeconds(1f); // created by number
         }
+
+        moveCount = 0;
+        countTextUI.text = moveCount.ToString();
     }
 
     private void Update()
@@ -40,5 +42,6 @@ public class HanoiTower : MonoBehaviour
             isSelected = false;
             selectedDonut = null;
         }
+        countTextUI.text = moveCount.ToString();
     }
 }
