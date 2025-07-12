@@ -16,6 +16,8 @@ public class UIHandler : MonoBehaviour, IPointerDownHandler, IDragHandler
 
     public void OnPointerDown(PointerEventData eventData)
     {
+        parentRect.SetAsLastSibling();  // set as upper position
+
         basePos = parentRect.anchoredPosition; // Original UI Position
         startPos = eventData.position; // start point
     }
