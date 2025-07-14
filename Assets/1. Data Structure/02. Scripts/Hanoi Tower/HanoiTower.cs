@@ -72,9 +72,7 @@ public class HanoiTower : MonoBehaviour
         {
             HanoiRoutine(n - 1, from, to, temp);
             Debug.Log($"no.{n} donut is moving to {to} from {from}");
-
             HanoiRoutine(n - 1, temp, from, to);
         }
-       
     }
 }
