@@ -20,4 +20,14 @@ public class LinearSearch : MonoBehaviour
             }
         }
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        GameObject findObject = GameObject.Find("Character");
+
+        if (other.CompareTag("Player"))
+        {
+
+        }        
+    }
 }
