@@ -1,0 +1,20 @@
+﻿using System.Collections;
+using UnityEngine;
+
+namespace Assets._4._Study._02._Script.Study.Pattern.Service_Locator
+{
+    public class AudioService : MonoBehaviour, IAudioService
+    {
+        public void PlaySound()
+        {
+            Debug.Log("Play Sound");
+        }
+
+        public void StopSound()
+        {
+            Debug.Log("Stop Sound");
+        }
+
+        
+    }
+}
